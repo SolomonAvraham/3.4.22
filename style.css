@@ -1,4 +1,10 @@
-body{
-    background: red;
+body {
+  background: red;
 }
 
+section {
+  background-color: #ffffff;
+}
+#sec-heading {
+  color: yellow;
+}
